@@ -14,5 +14,4 @@ menuCloseBtn.addEventListener('click', () => {
 
 navLinks.forEach((item) => item.addEventListener('click', () => {
   mobileMenu.style.display = 'none';
-  mobileMenu.style.display = 'block';
 }));

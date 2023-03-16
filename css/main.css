@@ -65,9 +65,9 @@ header {
 }
 
 .close-menu-bars i {
-  width: 18px;
+  width: 30px;
   height: 12px;
-  color: blue;
+  color: red;
 }
 
 #mobile-nav {
@@ -81,10 +81,6 @@ header {
   z-index: 10;
   transition: all 1s ease-in-out;
 }
-
-/* #mobile-nav:hover {
-  transition: all 1s ease-in-out;
-} */
 
 .mobile-nav-links {
   display: flex;
@@ -334,6 +330,10 @@ li {
 .project-stacks li:hover {
   background: rgba(0, 0, 0, 0.349);
 }
+
+/* #mobile-nav:hover {
+  transition: all 1s ease-in-out;
+} */
 
 #about-me,
 .about-me-section,
