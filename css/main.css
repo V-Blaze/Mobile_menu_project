@@ -51,6 +51,50 @@ header {
   color: white;
 }
 
+.close-menu-bars {
+  background: transparent;
+  border: none;
+  outline: none;
+  position: relative;
+  float: right;
+  margin-top: 62px;
+  margin-right: 62px;
+}
+
+.close-menu-bars i {
+  width: 18px;
+  height: 12px;
+  color: #67798E;
+}
+
+#mobile-nav {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #3C3A39;
+  z-index: 10;
+}
+
+.mobile-nav-links {
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+  margin-left: 1.3rem;
+  margin-top: 3rem;
+  align-items: start;
+  width: 100%;
+}
+
+.mobile-nav-link {
+  color: #FFF5E1;
+  font-size: 32px;
+  font-weight: 700;
+  border-bottom: solid 1px #6F6C6B;
+  width: 100%;
+}
+
 main {
   display: flex;
   flex-direction: column;
@@ -425,6 +469,10 @@ textarea {
   }
 
   .mobile-icon {
+    display: none;
+  }
+
+  #mobile-nav {
     display: none;
   }
 
