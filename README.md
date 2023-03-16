@@ -1,63 +1,130 @@
-# Mobile_menu_project
-JavaScript enabled  personal portfolio
 
-## Built With
+<a name="readme-top"></a>
 
-- HTML
 
-- CSS
 
-- Javascript(ES6)
+<div align="center">
 
-- Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
+  <h3><b>My portfolio</b></h3>
 
-- Webhint (A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors).
+</div>
 
-- Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+<!-- TABLE OF CONTENTS -->
 
-### Linter Tests
+# 📗 Table of Contents
 
-- `npx hint .`
-- `npx stylelint "**/*.{css,scss}"`
-- `npx eslint .`
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 My Portfoio <a name="about-project"></a>
+
+**My Portfoio** is a JavaScript enabled  personal portfolio
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+
+  <ul>
+    <li><a href="https://reactjs.org/">- Javascript(ES6)</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="#">Live server</a></li>
+  </ul>
+</details>
+
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **Displays the list of all my personal project**
+- **Has a contact form to reach out to me**
+- **Has a profile section with personal details**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ### Prerequisites
 
-- Have a local version control like Git. Which is a open source distributed version control system designed for source code management
-- A text editor (e.g Visual Studio Code, Vim, Atom & Sublime.)
-- A web browser (e.g Chrome, Safari, Mozilla Firefox.)
-- Live Server which is a web extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASPNET)
-- Download waves to check project accessibilty
+In order to run this project you need:
 
-### Getting Started
 
-To get a local copy up and running follow these simple example steps.
+Example command:
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+```sh
+ You need to have node installed
+```
 
-### Installation
 
-1. Clone the repo by running the command
+### Setup
+
+Clone this repository to your desired folder:
+
    ```sh
     git clone https://github.com/V-Blaze/Mobile_menu_project.git
    ```
-2. Open the directory of the project
+
+### Install
+
+Install this project with:
+
    ```sh
    cd Mobile_menu_project
    ```
-3. Open the html file
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
    ```sh
    Click and open the html file
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-See the [open issues](#) for a full list of proposed features (and known issues).
+<!-- AUTHORS -->
 
-## Authors
+## 👥 Authors <a name="authors"></a>
 
 👤 Valetine Blaze
 
@@ -65,16 +132,54 @@ See the [open issues](#) for a full list of proposed features (and known issues)
 - Twitter: [@blaze_valentine](https://twitter.com/blaze_valentine)
 - LinkedIn: [@valentine-blaze](https://www.linkedin.com/in/valentine-blaze/)
 
-## 🤝 Contributing
 
-- Contributions, issues, and feature requests are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Feel free to check the [issues page](https://github.com/V-Blaze/Mobile_menu_project/issues).
+<!-- FUTURE FEATURES -->
 
-## Show your support
+## 🔭 Future Features <a name="future-features"></a>
 
-- Give a ⭐️ if you like this project!
 
-## 📝 License
+- [ ] **Add functionality to preview projects**
+- [ ] **Add button to download my resume**
 
-- This project is [MIT](https://github.com/V-Blaze/Mobile_menu_project/blob/main/LICENSE) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please give it a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank microverse for providing this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
