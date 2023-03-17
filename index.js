@@ -9,7 +9,7 @@ mobileMenuBars.addEventListener('click', () => {
 });
 
 menuCloseBtn.addEventListener('click', () => {
-  mobileMenu.style.display = 'none';
+  mobileMenu.style.display = 'block';
 });
 
 navLinks.forEach((item) => item.addEventListener('click', () => {
